@@ -35,7 +35,7 @@
 .kk .lang-switch-mobile{align-self:flex-start;margin-top:4px;}
 .kk .burger{display:none;background:none;border:none;color:var(--text);font-size:22px;cursor:pointer;}
 .kk .mobile-menu{display:flex;flex-direction:column;position:absolute;top:44px;right:0;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 22px;gap:14px;min-width:160px;}
-@media (max-width:860px){.kk .nav-links{display:none;} .kk .burger{display:block;} .kk .nav-cta > .lang-switch{display:none;}}
+@media (max-width:860px){.kk .nav-links{display:none;} .kk .burger{display:block;} .kk .nav-cta > .lang-switch{display:none;} .kk .nav-cta > .btn-primary{display:none;}}
 .kk .hero{padding:100px 0 80px;}
 .kk .hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:60px;align-items:center;}
 @media (max-width:920px){.kk .hero-grid{grid-template-columns:1fr;} .kk .hero{padding:56px 0;}}
