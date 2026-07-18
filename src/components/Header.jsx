@@ -10,7 +10,7 @@ export default function Header() {
       <div className="wrap">
         <nav>
           <a className="logo" href="#top">
-            Agency<span>/</span>Advagrow
+            Agency<span>Advagrow</span>
           </a>
           <ul className="nav-links">
             <li>
